@@ -76,5 +76,5 @@ async def test_command(ctx):
     await ctx.send("Test command executed!")
 
 # Run the bot
-bot.run('MTE4NDQyNTEyODAxNzI4NTE3MQ.GyYpQw.ZM2zEfMLt1DsMKh5Lxs_benl2UoaYlohWyhuOY')
+bot.run('token')
 
